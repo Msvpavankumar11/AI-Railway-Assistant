@@ -7,6 +7,7 @@ A simple AI chat assistant that gives **real-time train information** for Indian
 ## Demo
 
 <img width="900" height="700" alt="Screenshot " src="https://github.com/user-attachments/assets/92808e3f-ae65-4768-84c1-c3585fc587a4" />
+
 *Example of the assistant answering train-related questions.*
 
 ---
